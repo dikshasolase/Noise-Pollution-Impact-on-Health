@@ -50,7 +50,9 @@ It uses **Linear Regression** to estimate the impact of noise exposure on public
   - R² Score
 
 ---
+## 📸 Output Screenshot
 
+![App Output](output.png)
 
 ## 👨‍💻 Author
  Diksha 
